@@ -1,3 +1,5 @@
+<?php
+
 namespace First-Plugin\commands;
 
 use pocketmine\command\CommandSender;
@@ -10,3 +12,5 @@ use pocketmine\utils\TextFormat;
 class Announce extends CommandSender{
 
 }
+
+?>
